@@ -1,0 +1,14 @@
+{
+  "name": "express-introduction",
+  "version": "1.0.0",
+  "description": "express introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandeep behera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
